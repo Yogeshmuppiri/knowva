@@ -1,0 +1,19 @@
+openai
+python-dotenv
+langchain_nvidia_ai_endpoints
+langchain_community
+faiss-cpu
+streamlit
+pypdf
+beautifulsoup4
+html5lib
+lxml
+fpdf
+speechrecognition
+docx2txt
+pdfplumber
+unstructured
+python-docx
+langchain-openai
+# pyaudio requires pipwin for Windows
+pipwin
