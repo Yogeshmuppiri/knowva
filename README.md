@@ -5,7 +5,7 @@ Knowva is an intelligent, LLM-driven assistant that enables users to semanticall
 ---
 
 ## 🚀 Demo Preview
-📽️ [Watch Demo Video](./Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)  
+📽️ [Watch Demo Video](https://drive.google.com/file/d/18_d8DUBGf8V0bSe02btB3zAwUr5QjyAv/view?usp=sharing)  
 *A walkthrough of Knowva's capabilities, UI, and real-time AI-powered document querying*
 
 ---
