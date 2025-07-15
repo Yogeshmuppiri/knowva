@@ -62,11 +62,12 @@ Knowva is an intelligent, LLM-driven assistant that enables users to semanticall
 
 📊 Extracting KPIs from contracts, surveys, and unstructured PDFs
 
-🧠 Future Enhancements
-✅ OAuth login and user profile management
+## 🌍 Deployment Details (AWS)
 
-✅ Multi-document ingestion and memory-augmented context
+This project was deployed on **AWS EC2** using the following cloud infrastructure:
+- VPC with public subnet configuration
+- Custom security group with open SSH (port 22) and Streamlit access (port 8501)
+- Manual EC2 provisioning (Ubuntu 24.04)
+- Python virtual environment setup
+- Live app access via public IP or custom domain
 
-✅ Native mobile support via React Native or Flutter
-
-✅ Real-time collaboration & shared Q&A dashboards
